@@ -1,0 +1,14 @@
+G:\C#.Net\ConsoleAppexamples\CA Examples\bin\Debug\net8.0\CA Examples.exe
+G:\C#.Net\ConsoleAppexamples\CA Examples\bin\Debug\net8.0\CA Examples.deps.json
+G:\C#.Net\ConsoleAppexamples\CA Examples\bin\Debug\net8.0\CA Examples.runtimeconfig.json
+G:\C#.Net\ConsoleAppexamples\CA Examples\bin\Debug\net8.0\CA Examples.dll
+G:\C#.Net\ConsoleAppexamples\CA Examples\bin\Debug\net8.0\CA Examples.pdb
+G:\C#.Net\ConsoleAppexamples\CA Examples\obj\Debug\net8.0\CA Examples.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#.Net\ConsoleAppexamples\CA Examples\obj\Debug\net8.0\CA Examples.AssemblyInfoInputs.cache
+G:\C#.Net\ConsoleAppexamples\CA Examples\obj\Debug\net8.0\CA Examples.AssemblyInfo.cs
+G:\C#.Net\ConsoleAppexamples\CA Examples\obj\Debug\net8.0\CA Examples.csproj.CoreCompileInputs.cache
+G:\C#.Net\ConsoleAppexamples\CA Examples\obj\Debug\net8.0\CA Examples.dll
+G:\C#.Net\ConsoleAppexamples\CA Examples\obj\Debug\net8.0\refint\CA Examples.dll
+G:\C#.Net\ConsoleAppexamples\CA Examples\obj\Debug\net8.0\CA Examples.pdb
+G:\C#.Net\ConsoleAppexamples\CA Examples\obj\Debug\net8.0\CA Examples.genruntimeconfig.cache
+G:\C#.Net\ConsoleAppexamples\CA Examples\obj\Debug\net8.0\ref\CA Examples.dll

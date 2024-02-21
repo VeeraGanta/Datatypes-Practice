@@ -1,0 +1,14 @@
+G:\C#.Net\ConsoleAppexamples\My first app\bin\Debug\net8.0\My first app.exe
+G:\C#.Net\ConsoleAppexamples\My first app\bin\Debug\net8.0\My first app.deps.json
+G:\C#.Net\ConsoleAppexamples\My first app\bin\Debug\net8.0\My first app.runtimeconfig.json
+G:\C#.Net\ConsoleAppexamples\My first app\bin\Debug\net8.0\My first app.dll
+G:\C#.Net\ConsoleAppexamples\My first app\bin\Debug\net8.0\My first app.pdb
+G:\C#.Net\ConsoleAppexamples\My first app\obj\Debug\net8.0\My first app.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#.Net\ConsoleAppexamples\My first app\obj\Debug\net8.0\My first app.AssemblyInfoInputs.cache
+G:\C#.Net\ConsoleAppexamples\My first app\obj\Debug\net8.0\My first app.AssemblyInfo.cs
+G:\C#.Net\ConsoleAppexamples\My first app\obj\Debug\net8.0\My first app.csproj.CoreCompileInputs.cache
+G:\C#.Net\ConsoleAppexamples\My first app\obj\Debug\net8.0\My first app.dll
+G:\C#.Net\ConsoleAppexamples\My first app\obj\Debug\net8.0\refint\My first app.dll
+G:\C#.Net\ConsoleAppexamples\My first app\obj\Debug\net8.0\My first app.pdb
+G:\C#.Net\ConsoleAppexamples\My first app\obj\Debug\net8.0\My first app.genruntimeconfig.cache
+G:\C#.Net\ConsoleAppexamples\My first app\obj\Debug\net8.0\ref\My first app.dll
